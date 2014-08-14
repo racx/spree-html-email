@@ -15,3 +15,4 @@ ru:
     order_summary: "Данные по заказу"
     store_customer: "покупатель"
     store_dear: "Уважаемый %{name}, "
+    items_purchased: "Товары"

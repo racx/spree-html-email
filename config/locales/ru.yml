@@ -1,0 +1,10 @@
+ru:
+  digital_email_description: <p>Each link will only work a SINGLE TIME! Also, they will only work WITHIN 24 HOURS!</p>
+  tracking_information: Tracking Information
+  shipment_details: Shipment Details
+  digital_item_email_title: "<b>%{name}, %{type}:</b><br/>"
+
+  spree:
+    order_number: "Номер заказа"
+    order_delivery: "Способ доставки"
+    order_submitted: "Дата оформления"

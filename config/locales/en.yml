@@ -10,7 +10,8 @@ en:
     order_submitted: "Order date"
     order_details: "Order details"
     oreder_full_details: "To view full order details, go to link:"
-
     order_check: "Please review and retain the following order information for your records."
-
     order_thank_you: "Thank you for your business."
+    order_summary: "Order summary"
+    store_customer: "customer"
+    store_dear: "Dear %{name}, "

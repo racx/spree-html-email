@@ -16,3 +16,12 @@ ru:
     store_customer: "покупатель"
     store_dear: "Уважаемый %{name}, "
     items_purchased: "Товары"
+
+    store_ship_status: "Заказ был обработан и отправлен по адресу, указанному Вами при оформлении заказа."
+    store_shipping_address: "Адрес доставки"
+    store_item_description: "Описание товара"
+    store_shipment_status: "Статус"
+    store_qty: "Кол-во"
+    store_shipped: "Отправлено"
+    store_tracking_information: "Номер-трекер для отслеживания товара"
+    store_shipment_details: "Данные по доставке"
